@@ -1,0 +1,14 @@
+.green-back {
+  background-image: linear-gradient(to right, #cbffd6, #b1ffbf, #96ffa6, #7aff8b, #5aff6d, #5aff6d, #5aff6d, #5aff6d, #7aff8b, #96ffa6, #b1ffbf, #cbffd6);
+}
+
+.red-back {
+  background-image: linear-gradient(to right, #ffe9e9, #ffc7c5, #ffa49e, #ff8175, #ff5b4b, #ff5b4b, #ff5b4b, #ff5b4b, #ff8175, #ffa49e, #ffc7c5, #ffe9e9);
+}
+/* You can add global styles to this file, and also import other style files */
+.center {
+
+  text-align: center;
+  padding: 200px 0;
+}
+
